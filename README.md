@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paineleffler
 - 👀 I’m interested in the future of the Web 🕸, design, & UX
-- 🌱 I’m currently learning Remix!
+- 🌱 I’m currently learning Remix! 
 - 💞️ I’m looking to collaborate on fun innovative projects
 
 <!---
