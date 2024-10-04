@@ -1,12 +1,12 @@
 # 👋 Hi, I’m @paineleffler
-👀 I’m interested in the future of the Web 🕸, design, & UX
+👀 I’m interested in the future of the Web 🕸, design, & UX.
 
 ### My Ongoing Projects 🚧
-🤙 My personal site: [PaineLeffler.com](https://paineleffler.com)
+🤙 My personal site: (currently rebuilding... again... 😀)
 
-💻 Another personal site: [Paine.dev](https://paine.dev)
+[PaineLeffler.com](https://paineleffler.com)
+[Paine.dev](https://paine.dev)
 
-🧠 Triviale Word Game [Triviale](https://triviale.netlify.app)
 
 <!---
 paineleffler/paineleffler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
