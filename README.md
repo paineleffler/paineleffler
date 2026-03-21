@@ -14,6 +14,15 @@ These are my playgrounds for new ideas that I'm working on and learning. Current
 
 I've gotten fed up with Instagram, so I've made a photo life updates app for friends to view moments in a monthly view. The idea is that anyone can go about hosting their own, and invite their close ones to have access.
 
+* private
+
+**Portfolio Viewer**
+
+Since I've built a pretty roboust photo viewer app above, I'm making a configuration change to it that will allow for it to be deployed as a simple portfolio viewer. Users can upload images by projects rather than by month if they choose. Comments and reactions will be removed for this mode but the same access managment will be provided.
+
+* coming soon
+
+
 **Global Trivia**
 
 Building an LLM based trivia game that has a unique answering mechanism. I've been inspired to build this because I love trivia, but I also feel like I should be better at placing locations on a map. This idea will also come with a study mode to learn the locations of cities, countries and geographic features of the world.
