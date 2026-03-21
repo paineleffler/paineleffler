@@ -6,11 +6,16 @@
 **My Website**
 
 These are my playgrounds for new ideas that I'm working on and learning. Currently this is a chat interface with LangChain, Gemini with some access to tools about my Strava activites and content from my resume. I've also built in tracking with a dashboard to help with insights into shared links.
+
 * [PaineLeffler.com](https://paineleffler.com)
 * [Paine.dev](https://paine.dev)
 
+**Life**
 
-<!---
-paineleffler/paineleffler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I've gotten fed up with Instagram, so I've made a photo life updates app for friends to view moments in a monthly view. The idea is that anyone can go about hosting their own, and invite their close ones to have access.
+
+**Global Trivia**
+
+Building an LLM based trivia game that has a unique answering mechanism. I've been inspired to build this because I love trivia, but I also feel like I should be better at placing locations on a map. This idea will also come with a study mode to learn the locations of cities, countries and geographic features of the world.
+
+* coming soon
