@@ -31,6 +31,9 @@ Since I've built a pretty roboust photo viewer app above, I'm making a configura
 ---
 
 ### Global Trivia
-**Status:** Coming soon
+**Status:** Active
 
 Building an LLM based trivia game that has a unique answering mechanism. I've been inspired to build this because I love trivia, but I also feel like I should be better at placing locations on a map. This idea will also come with a study mode to learn the locations of cities, countries and geographic features of the world.
+
+**Links:**
+[MapWise](https://mapwise.fly.dev)
