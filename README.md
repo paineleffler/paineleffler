@@ -17,23 +17,30 @@ These are my playgrounds for new ideas that I'm working on and learning. Current
 ---
 
 ### Life
-**Status:** Private
+**Status:** Active
 
 I've gotten fed up with Instagram, so I've made a photo life updates app for friends to view moments in a monthly view. The idea is that anyone can go about hosting their own, and invite their close ones to have access.
+
+**Links:**
+- [Paine.life](https://paine.life)
 
 ---
 
 ### Portfolio Viewer
-**Status:** Coming soon
+**Status:** Active
 
 Since I've built a pretty roboust photo viewer app above, I'm making a configuration change to it that will allow for it to be deployed as a simple portfolio viewer. Users can upload images by projects rather than by month if they choose. Comments and reactions will be removed for this mode but the same access managment will be provided.
 
+**Links:**
+- [Work Portfolio](https://paine.life/albums/work-portfolio)
+- [Side Projects](https://paine.life/albums/side-projects)
+
 ---
 
-### Global Trivia
+### MapWise Trivia
 **Status:** Active
 
-Building an LLM based trivia game that has a unique answering mechanism. I've been inspired to build this because I love trivia, but I also feel like I should be better at placing locations on a map. This idea will also come with a study mode to learn the locations of cities, countries and geographic features of the world.
+Building a map based trivia game that has a unique answering mechanism. I've been inspired to build this because I love trivia, but I also feel like I should be better at placing locations on a map. This idea will also come with a study mode to learn the locations of cities, countries and geographic features of the world.
 
 **Links:**
 - [MapWise](https://mapwise.fly.dev)
