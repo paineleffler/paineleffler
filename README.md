@@ -8,7 +8,7 @@
 ### My Website
 **Status:** Active
 
-These are my playgrounds for new ideas that I'm working on and learning. Currently this is a chat interface with LangChain, Gemini with some access to tools about my Strava activites and content from my resume. I've also built in tracking with a dashboard to help with insights into shared links.
+These are my playgrounds for new ideas that I'm working on and learning. Currently this is a chat interface with LangChain, Gemini with some access to tools about my Strava activities and content from my resume. I've also built in tracking with a dashboard to help with insights into shared links.
 
 **Links:**
 - [PaineLeffler.com](https://paineleffler.com)
@@ -29,11 +29,21 @@ I've gotten fed up with Instagram, so I've made a photo life updates app for fri
 ### Portfolio Viewer
 **Status:** Active
 
-Since I've built a pretty roboust photo viewer app above, I'm making a configuration change to it that will allow for it to be deployed as a simple portfolio viewer. Users can upload images by projects rather than by month if they choose. Comments and reactions will be removed for this mode but the same access managment will be provided.
+Since I've built a pretty robust photo viewer app above, I'm making a configuration change to it that will allow for it to be deployed as a simple portfolio viewer. Users can upload images by projects rather than by month if they choose. Comments and reactions will be removed for this mode but the same access management will be provided.
 
 **Links:**
 - [Work Portfolio](https://paine.life/albums/work-portfolio)
 - [Side Projects](https://paine.life/albums/side-projects)
+
+---
+
+### Paine MCP
+**Status:** Active
+
+A remote [MCP](https://modelcontextprotocol.io) server that lets AI assistants like Claude answer questions about me directly: my resume (as Markdown or PDF), my work and side-project portfolios, and my Strava activity totals and personal records. Add it to Claude with just the server URL and log in. Access is invite-only, and I can add people from a chat with an admin-only tool, gated by role. It's built on Auth0 (OAuth 2.1 with Client ID Metadata Documents), and runs on Fly.io with Cloudflare R2 for files.
+
+**Links:**
+- [Source](https://github.com/paineleffler/paine-mcp)
 
 ---
 
